@@ -1,3 +1,3 @@
 # repo-1
 
-This is my first document on GitHub
+This is my first document on GitHub.
